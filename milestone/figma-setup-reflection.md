@@ -72,4 +72,18 @@ Figma is a cloud-based design tool that enables **real-time collaboration** betw
   - Use version history and branching (if available) to manage edits safely
 
 ---
+## 🖼 Hands-on Figma Evidence
+
+### 📸 Screenshot of My Workspace
+![Figma Workspace Screenshot]![figma](https://github.com/user-attachments/assets/65f8d063-b403-49b3-ac19-b9c0ee7d0140)
+
+
+---
+
+### ✏️ Personal Experience Using Figma
+While exploring Figma, I created a **button component** with three variants: *default*, *hover*, and *disabled*.  
+Using **auto-layout**, I ensured the button text stayed centered and the padding adjusted automatically whenever I changed the label.  
+This made it easy to reuse and adapt the button across multiple frames in my sample design without breaking alignment.
+
+---
 
