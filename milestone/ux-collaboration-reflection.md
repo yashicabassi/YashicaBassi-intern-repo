@@ -32,6 +32,9 @@ Conflicting priorities may arise when developers are limited by technical constr
 ### 🧩 If a developer modifies a UX design due to technical limitations, how should a UX designer respond?
 A UX designer should respond by understanding the technical constraint, then collaborating with the developer to find the closest possible alternative that maintains usability. Rather than resisting changes, the designer should balance technical feasibility with design intent, possibly iterating on the solution to ensure user needs are still met effectively.
 
+### Personal Experience with UX Collaboration
+In a recent university project, I participated in a design handoff between our UX team and the developers building our app prototype. To ensure smooth collaboration, I prepared detailed Figma designs with clear annotations explaining interactions, error states, and responsive behavior. I scheduled a walkthrough meeting where developers could ask questions early, which helped uncover a technical limitation related to a complex animation we wanted to implement. Instead of insisting on the original design, I worked closely with the developer to simplify the animation while preserving the core user experience. This experience taught me the value of flexibility, open communication, and focusing on user needs even when technical constraints require compromise. It also reinforced how important it is to maintain ongoing dialogue throughout development to catch issues early and deliver a polished final product.
+
 ---
 
 ## ✅ Final Thoughts
