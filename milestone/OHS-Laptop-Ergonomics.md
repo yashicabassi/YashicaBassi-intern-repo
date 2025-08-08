@@ -1,4 +1,4 @@
-# Occupational Health & Safety (OHS) for Desk-Based Work
+![1](https://github.com/user-attachments/assets/023c57e3-a6a1-4014-99be-bc1fad9c6201)# Occupational Health & Safety (OHS) for Desk-Based Work
 
 ## 🎯 Goal  
 Set up a safe, comfortable, and ergonomic workspace for using my laptop, and build better habits to avoid physical strain and discomfort.
@@ -54,5 +54,7 @@ I can use Focus Bear to schedule regular stretch and posture reminders throughou
 
 - I adjusted my laptop using a stand to raise the screen.
 - I started using an external screen,keyboard and mouse for better wrist position.
+- My work setup ![1](https://github.com/user-attachments/assets/f5bbcc4a-5383-4a4c-97e2-c2219c45b761)
 - I tested Focus Bear for reminders and it helped me move more.
+- (Using FocusBear app while studying)![gh](https://github.com/user-attachments/assets/a8377765-d2d3-4e71-bed3-d4a27f08224a)
 - I started taking break for 5 min every 45 minutes I work and also started using 20-20-20 rule.
