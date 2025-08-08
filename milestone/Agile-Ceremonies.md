@@ -90,5 +90,23 @@ They keep the team connected, highlight blockers early, and maintain progress vi
 - **Introduce a shared "Weekly Priorities" board** (e.g., in Trello or Jira).  
 This board will allow team members to list their top 1–3 focus areas for the week.  
 It improves transparency, helps with workload balancing, and ensures alignment across roles—especially in distributed teams.
+
+---
+
+## 🗣️ Personal Anecdote from Stand-up and Retrospective
+
+During a recent daily stand-up meeting I attended in my university, one team member frequently mentioned that their progress was being delayed due to waiting on feedback from the client. This brought to light an external dependency issue that wasn’t fully visible to the team before. The team discussed potential solutions to improve communication with the client, such as setting clearer expectations for response times and scheduling regular check-in calls. This was insightful because it showed how stand-ups help surface blockers quickly so the team can collaboratively find solutions.
+
+At the retrospective following that sprint, the team reflected that although the sprint goal was largely met, some user stories had not been sufficiently detailed before development began. This caused some rework and delays. The team decided to prioritize backlog refinement mid-sprint to better clarify requirements and split larger tasks into smaller, manageable stories. This experience helped me appreciate how retrospectives are crucial for continuous improvement by openly discussing what worked and what didn’t.
+
+---
+
+## 📅 Description of Participation Evidence
+
+
+While I don’t have formal notes or screenshots, I actively participated in these meetings as part of my role. During stand-ups, I shared updates on my completed work, plans for the day, and flagged any blockers. For example, on one day I reported finishing a module and planned to start integration testing but noted a potential delay due to awaiting API specifications from the client. On another occasion, I mentioned I was waiting to create a low-fidelity prototype because I needed some key requirements clarified before I could proceed.
+
+Similarly, in retrospectives, I contributed feedback by discussing challenges around unclear user stories and supported the decision to schedule backlog grooming sessions. These verbal contributions and active listening during meetings demonstrate my involvement and understanding of the ceremonies, even without written artifacts.
+
 ---
 
