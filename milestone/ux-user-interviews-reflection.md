@@ -19,8 +19,8 @@ User interviews and usability tests help designers understand real user needs. H
   Select users that represent your target audience or personas.
 
 - **Prepare open-ended, non-leading questions**  
-  Example questions:
-  - “Can you walk me through how you typically focus during your workday?”
+  Example questions:  
+  - “Can you walk me through how you typically focus during your workday?”  
   - “Tell me about a recent time you used an app to manage your productivity.”
 
 - **Build rapport and set expectations**  
@@ -67,8 +67,8 @@ User interviews and usability tests help designers understand real user needs. H
 - **Follow-up questions**  
   “What made that experience frustrating/helpful?”
 
-❌ *Avoid these types of questions:*
-- Yes/no questions (e.g., “Do you like this?”)
+❌ *Avoid these types of questions:*  
+- Yes/no questions (e.g., “Do you like this?”)  
 - Leading questions (e.g., “Don’t you think this is a good feature?”)
 
 ---
@@ -93,30 +93,52 @@ User interviews and usability tests help designers understand real user needs. H
 
 ### ❓ If a user struggles with a feature during testing, how do you know if it’s a UX problem or a learning curve issue?
 
-To determine whether it's a UX problem or just a learning curve issue, I consider:
-- **Frequency**: If multiple users struggle with the same feature, it points to a UX flaw.
-- **Severity**: If confusion prevents task completion, it’s more than just a learning curve.
-- **Expectations vs. reality**: If the design violates user expectations (e.g., tapping a button that doesn't do what users assumed), it’s a UX issue.
+To determine whether it's a UX problem or just a learning curve issue, consider:  
+- **Frequency**: If multiple users struggle with the same feature, it points to a UX flaw.  
+- **Severity**: If confusion prevents task completion, it’s more than just a learning curve.  
+- **Expectations vs. reality**: If the design violates user expectations (e.g., tapping a button that doesn't do what users assumed), it’s a UX issue.  
 - **Time taken**: If the user eventually figures it out but takes much longer than expected, it could be a discoverability or affordance issue.
 
 ### 🧠 How can UX designers ensure they don’t influence user responses during an interview?
 
-- **Use neutral language**: Ask “What do you think about this screen?” instead of “Do you like this screen?”
-- **Avoid reactions**: Don’t nod, smile, or frown in ways that might sway the user.
-- **Refrain from explaining**: Let users navigate independently to reveal genuine usability problems.
+- **Use neutral language**: Ask “What do you think about this screen?” instead of “Do you like this screen?”  
+- **Avoid reactions**: Don’t nod, smile, or frown in ways that might sway the user.  
+- **Refrain from explaining**: Let users navigate independently to reveal genuine usability problems.  
 - **Let silence work**: Give users space to think and respond without jumping in to clarify or help.
 
 ### 🗂️ What’s the best way to document usability testing results so they are useful for design decisions?
 
-- **Create a usability test summary table** with:
-  - Task descriptions
-  - Success/failure outcomes
-  - Observed issues
-  - Direct quotes
+- **Create a usability test summary table** with:  
+  - Task descriptions  
+  - Success/failure outcomes  
+  - Observed issues  
+  - Direct quotes  
   - Suggested improvements
 
-- **Highlight patterns**: Group findings by issue type (e.g., navigation, layout, comprehension).
-- **Visuals**: Use screenshots or short clips of the test to illustrate issues.
+- **Highlight patterns**: Group findings by issue type (e.g., navigation, layout, comprehension).  
+- **Visuals**: Use screenshots or short clips of the test to illustrate issues.  
 - **Prioritize**: Rank issues by severity and impact to help the design team act on what matters most.
 
 ---
+
+## 📝 Personal Experience Example
+
+During a university project aimed at developing a mobile study app, I conducted usability testing sessions with five classmates who fit our target audience of college students. I prepared realistic task scenarios such as:
+
+- “Find and bookmark a study topic relevant to your next exam.”  
+- “Set a reminder for a study session next week.”
+
+Each participant was observed individually in a quiet room while I encouraged them to think aloud as they navigated the app. I took detailed notes and recorded the sessions (with permission) for later review.
+
+One key insight emerged when a user hesitated to bookmark a topic. They couldn’t find the bookmark icon easily because the icon’s design resembled a generic shape that didn’t align with their mental model. Rather than intervening, I stayed silent and let them try different options, which revealed this discoverability issue clearly.
+
+After testing all participants, I compiled a usability report that included:  
+- Task success rates and times  
+- Common issues, such as confusion around iconography and navigation labels  
+- Direct quotes illustrating users’ frustration and confusion  
+- Suggestions for redesign, such as replacing the bookmark icon with a more intuitive symbol and adding a tooltip on hover
+
+This experience reinforced the importance of observing without interference and documenting real user feedback to prioritize design improvements effectively.
+
+---
+
