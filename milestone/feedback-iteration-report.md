@@ -77,18 +77,34 @@ By maintaining open communication, understanding technical constraints, and alig
 ### User Testing Session Review: Pavel Chuchuva – FocusBear App  
 [User Testing Video](https://fathom.video/share/iyeiAUQ_o39W9Dm_4GVQ14uhq-42cZLn)
 
+### 🔍 Observed Pain Points from User Testing Video
+
+While reviewing the video, several specific moments highlighted user pain points:
+
+1. **Confusion during onboarding (36:41 - 37:12)**  
+   Pavel commented: _"I was expecting it to tell me what it can do, and instead it's asking me what I want to do."_  
+   This indicates the need for an early feature overview carousel to show key app capabilities before asking users to set goals.
+
+2. **Unclear permissions and notifications (6:52 - 7:15)**  
+   Pavel said: _"Some people might think it's already I should click allow. You might do more user testing with people."_  
+   Users were confused about interactive permission elements, highlighting the need to redesign notification and permission prompts for clarity.
+
+3. **Difficulty editing habits (15:57 - 16:00)**  
+   Pavel noted: _"It becomes quite small, so you might even get warning from Google, but your control is too small."_  
+   This shows that habit editing controls were too small and confusing, and increasing tap targets or improving affordances would improve usability.
+
 ---
 
 ### 8 Proposed Improvements to Enhance User Experience
 
 | #  | Improvement                                                                                   | Reason / User Feedback                                                                                       | Business / Technical Constraints                                      | Priority      |
 | ---| ---------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------| -------------------------------------------------------------------- | ------------- |
-| 1  | Add an early feature overview carousel during onboarding                                     | Users confused by being asked goals before seeing app capabilities                                           | Medium development effort; aligns with improving user activation    | High          |
-| 2  | Redesign notification & permission requests for clarity and interactive consistency          | Confusing UI (non-clickable “Allow” button), unclear permission purpose                                      | Medium effort; must comply with platform privacy rules              | High          |
+| 1  | Add an early feature overview carousel during onboarding                                     | Confusion during onboarding (36:41 - 37:12)                                                                  | Medium development effort; aligns with improving user activation    | High          |
+| 2  | Redesign notification & permission requests for clarity and interactive consistency          | Unclear permissions (6:52 - 7:15)                                                                            | Medium effort; must comply with platform privacy rules              | High          |
 | 3  | Tailor habit suggestions dynamically based on user goals                                     | Disconnect between goals (e.g., eye health) and habit recommendations                                       | Higher backend & frontend effort; critical for retention            | High          |
 | 4  | Add personalized bear characters with different personas and tones                           | Current tone seen as paternalistic; playful mascots improve engagement                                       | Medium design and development effort; can be phased                 | Medium        |
 | 5  | Provide immediate feedback when blocking or focus sessions are active                         | Users unsure if distraction blocking works during sessions                                                  | Medium UX & technical integration effort                            | Medium        |
-| 6  | Improve editing controls with clearer affordances and confirmation prompts                   | Delete and edit icons confusing, risk of accidental deletions                                               | Low-medium UI refinement effort                                     | Medium        |
+| 6  | Improve editing controls with clearer affordances and confirmation prompts                   | Tap targets too small / confusing controls (15:57 - 16:00)                                                 | Low-medium UI refinement effort                                     | Medium        |
 | 7  | Increase tap target sizes to meet accessibility standards                                    | Some buttons too small, causing difficulty and possible platform warnings                                   | Low effort; standard UX best practice                               | High          |
 | 8  | Implement A/B testing on onboarding flow changes                                             | Unknown which onboarding tweaks improve retention best                                                     | Requires analytics & development resources                          | Medium        |
 
@@ -113,7 +129,3 @@ By maintaining open communication, understanding technical constraints, and alig
 ## 4. Conclusion
 
 Incorporating prioritized UX improvements focused on clarity, personalization, and immediate value demonstration will likely increase user engagement and retention in the FocusBear app. Balancing user benefits with business objectives and technical feasibility through incremental, tested changes will support sustainable product growth.
-
----
-
-
