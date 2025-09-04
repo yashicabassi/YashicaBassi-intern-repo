@@ -1,6 +1,4 @@
 # Focus Bear Web Onboarding Review
-**Reviewer:** Suniti Jain  
-**Date Reviewed:** 10/08/2025  
 
 ## Observations
 
