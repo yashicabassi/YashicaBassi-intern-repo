@@ -1,48 +1,70 @@
-# 🧾 Focus Bear Usability Test Report
+# 📝 Usability Test Report – Focus Bear
 
-## 👤 Participant Details
-- **Age:** 24  
-- **Background:** University student, not previously familiar with Focus Bear  
-- **Device Used:** iPhone 15
-
-## 🧪 Test Scenario Recap
-The participant was asked to imagine they just downloaded Focus Bear to improve their focus. Their task was to set up a 25-minute focus session with distractions blocked.
+## 📅 Session Details
+- **Date:** 1st August 2025  
+- **Participant:** Suniti Jain, Age 25
+- **Device Used:** iPhone 15  
+- **Context:** University student, first-time user of Focus Bear  
 
 ---
 
-## 📌 Key Observations
+## ✅ What Went Well
 
-- ✅ The participant **quickly found the "Start Focus Session" button** and understood the Pomodoro timer concept.
-- ❓ They **hesitated at the distraction blocker screen**, unsure whether it was actively blocking apps or just a suggestion.
-- 📱 They **tapped multiple icons expecting more information**, indicating the need for clearer affordances or tooltips.
-- 🔄 They **restarted the task once**, thinking they missed a step — the flow was not as linear as they expected.
+**Focus Session**  
+- Suniti quickly found the Focus button at the bottom and commented, *“Oh, that’s easy to spot!”*  
+- She found the session setup straightforward, saying it reminded her of a Pomodoro timer.  
+- Starting a session required only a few taps, which she appreciated for efficiency.  
 
----
-
-## 💬 Participant Feedback
-
-- **What was easy?**  
-  “The initial screen was really clear. I liked the timer design—it’s calming.”
-
-- **What was confusing?**  
-  “I wasn’t sure if the distractions were actually being blocked or if I had to do something more.”
-
-- **Suggestions?**  
-  “It would help to have a confirmation like ‘Distraction blocker is now active’ or maybe a checklist of what's blocked.”
-
-- **Would you use it regularly?**  
-  “Maybe. It seems useful, but I’d need more clarity upfront on how it works.”
+**Habits Tab**  
+- She easily located the Habits tab and liked that evening habits only appeared later, keeping the screen uncluttered.  
+- She commented positively on the clean layout, noting that it didn’t overwhelm her with too many tasks at once.  
 
 ---
 
-## 🤔 Reflection
+## ⚠️ Problems or Confusing Points
 
-### 💥 What surprised me the most?
-I expected the participant to struggle with finding the session button, but they actually found it immediately. What surprised me was their uncertainty around the distraction-blocking feature — something I assumed was self-explanatory.
+**Focus Session**  
+- When trying to take a short break, she couldn’t find an option and only saw the “End Session” button.  
+- She frowned and said, *“I thought I could just take a short break here,”* showing her workflow was interrupted.  
 
-### 🧱 Unexpected Issues?
-Yes, the lack of visual confirmation or feedback after activating the distraction blocker created confusion. I didn’t realize that a simple message or animation would make such a big difference in perceived functionality.
+**Habits Tab**  
+- She felt there was too much text, saying, *“It’s a bit overwhelming to read all this at once.”*  
+- The Quick Break buttons confused her; she laughed and remarked, *“This feels like it should be under the Focus tab instead.”*  
+- She couldn’t see completed routines and expressed frustration: *“I just want to check what I’ve already done.”*  
 
-### 🧠 How will this inform my UX approach?
-This test reminded me of the importance of **clarity and user feedback loops**. Even if a feature works technically, if the user doesn’t feel confident it’s working, the UX has failed. I’ll focus more on **micro-interactions** and onboarding clarity in future designs.
+---
 
+## 🔎 What Was Missing
+
+**Focus Session**  
+- A short/long break timer option would make transitioning between work and rest smoother.  
+
+**Habits Tab**  
+- A section to display completed routines with checkmarks or progress summaries.  
+- Some content to occupy the screen when evening habits aren’t active.  
+- Move Quick Break buttons to the Focus tab for better logical placement.  
+
+---
+
+## 💬 Participant Quotes
+
+- *“It’s easy to start a session — I like that it’s quick and simple.”*  
+- *“I didn’t feel fully in control because there’s no clear break option.”*  
+- *“The Habits tab has too much text; it’s a bit overwhelming.”*  
+- *“I wish I could see what routines I’ve already completed.”*  
+- *“The Quick Break buttons should be under Focus, not Habits.”*  
+
+---
+
+## 🔮 Reflection
+
+- Observing Suniti showed me how **small design choices**, like where buttons are placed, can significantly affect usability.  
+- I was surprised at how much she **wanted to see completed routines**; it was more important to her confidence and motivation than I expected.  
+- The lack of a break option disrupted her workflow, highlighting the need for **flexible, user-friendly features**.  
+- Seeing her confusion in real time reminded me to always **consider the user’s perspective** — not just what seems intuitive to the designer.  
+
+**Takeaways for UX Design**  
+- Keep navigation simple and intuitive for first-time users.  
+- Include **visual feedback** like checkmarks, progress summaries, or small animations to enhance engagement.  
+- Offer **flexible options** for breaks and reviewing completed routines.  
+- Place features where users naturally expect them to improve flow and reduce confusion.
