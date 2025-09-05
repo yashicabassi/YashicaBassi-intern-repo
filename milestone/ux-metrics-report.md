@@ -54,19 +54,24 @@ To use UX metrics to track the effectiveness of design decisions, measure user e
 
 ## 🛠️ Task
 
-**1. Request access to PostHog:**  
-- Requested to explore Focus Bear UX data.
+![posthog](https://github.com/user-attachments/assets/e6d2e247-ec69-4f76-95a3-5ccb78af0e56)
+## 📈 Funnel Analysis (Last 7 Days)
 
-**2. Key UX Metric for Focus Bear:**  
-- **Drop-off rate in onboarding flow** (especially Step 3: calendar integration).
+- **Login → Evening Routine Activity**
+  - 182 → 21 users (11.54% completion, 88.46% drop-off).
+  - Avg time to convert: 5h 2m 10s.
+  - **Insight:** Users may find the activity too heavy, unclear, or poorly timed.
 
-**3. Metric Analysis:**  
-- Drop-off occurs most during calendar integration due to complexity and unclear instructions.  
-- Historical data shows slight improvements after small UI updates but the step remains a major friction point.
+- **Evening Routine Activity → Extend Focus Session**
+  - 21 → 0 users (100% drop-off).
+  - **Insight:** Users either don’t see the popup or don’t perceive value in extending.
 
-**4. Suggested UX Improvement:**  
-- Make calendar integration optional during onboarding.  
-- Provide inline guidance and clearer messaging about why the integration is valuable.  
-- Simplify the flow to reduce cognitive load and technical friction.  
+### 🎯 Recommendation
+- Simplify or make evening routine optional to improve completion rate.  
+- Redesign session extension to appear as a clear, timely CTA.  
+- Track post-change funnel to validate improvement.
+
+
+
 
 ---
